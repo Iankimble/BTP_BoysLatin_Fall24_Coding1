@@ -10,7 +10,7 @@ in the text box in soucre control to submit your work.
 
 
 1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
-
+finished
 2. Do you have someone in your network of family and friends that works in tech? If yes, please
 describe what they do and how you are connected to them.
 
