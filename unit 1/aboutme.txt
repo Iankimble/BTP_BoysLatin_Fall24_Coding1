@@ -8,6 +8,7 @@ your activity by using the source control button. Remember: before you
 can successfully submit your work you need to provide a comment/ description
 in the text box in soucre control to submit your work. 
 
+
 1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
 
 2. Do you have someone in your network of family and friends that works in tech? If yes, please
