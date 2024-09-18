@@ -16,7 +16,12 @@
 - A File/ folder/ variable name cannot contain spaces.
 - The variable name cannot be any keywords/ reserved words.
 
-**Multi-word Naming Conventions
+**Multi-word Naming Conventions**
+- **Camel Case**: Writing names where the first word begins with a lowercase letter and the first letter of every other word after is capitalized. No spaces. Example: firstProject, newAssignment, camelCase
+
+- **Pascal Case**: Writing names where the first letter of each word begins with a uppercase letter. No spaces. Example: IanAssignmentProject, PascalCase, MidtermProject  
+
+- **Snake Case**: Writing names where all words are lowercase but separated with the underscore symbol ( _ ). No spaces. Example: snake_case, new_folder, html_quiz_one
 
 ## Publishing work to Github** 
 When you have completed an assignment, or would just like to ensure the work you've done is visible on your Github repo page, do the following steps to pubhlish your work to Github.
