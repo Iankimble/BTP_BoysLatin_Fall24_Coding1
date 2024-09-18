@@ -1,20 +1,18 @@
-# Black Tech Philly's Coding Cohort 
-**Coding 1 and 2, Fall 2024**
+# Black Tech Philly's Coding Cohort Fall 2024
 
-Class overview 
+### Class Overview 
 
-Class workflow
+### Class Workflow
 
 ### Async Friday Activity Guidelines
-
 
 ### Coding Conventions 
 - **Naming files, folders, and variables**
 - **Publishing work to Github** 
 
-## Resources 
+### Resources 
 - [W3Schools](https://www.w3schools.com/)
 
 
-##
+
 
