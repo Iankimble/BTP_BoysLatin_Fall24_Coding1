@@ -1,7 +1,10 @@
 # Black Tech Philly's Coding Cohort Fall 2024
 
 ## Class Overview 
-
+Coding I (Intro to coding )
+<br/>
+Coding II
+<br/>
 ## Class Workflow
 
 ## Async Friday Activity Guidelines
