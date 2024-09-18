@@ -13,8 +13,7 @@ Starting in October of 2024, Fridays will feature asynchronous coding activities
 ## Coding Conventions 
 **Naming Files, Folders, and Variables**
 <br/>
-In software development, engineers will work on code that is written in multiple files with multiple people. 
-Often times, this code will not be new and could've been written many years ago. On the flipside, engineer will leave code for others that may be working on the same document years after they've moved on. Because so many people need to work on these complex documents, there are coding standards that engineers follow to ensure everyone can understand whats going on. 
+In software development, engineers often collaborate on code that spans multiple files and involves several contributors. Much of the code they work on isn't brand new—it could have been written years ago. Similarly, engineers leave behind code that others may work on long after they've moved on from the project. To ensure that everyone can navigate and understand these complex codebases, developers follow coding standards that promote clarity and consistency. 
 
 - A file/ folder/ variable name must start with a letter or an underscore character (_).
 - A file/ folder/ variable name cannot start with a digit
