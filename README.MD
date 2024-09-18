@@ -1,4 +1,6 @@
 # Black Tech Philly's Coding Cohort Fall 2024
+X^2^
+H~2~O
 
 ## Class Overview 
 
