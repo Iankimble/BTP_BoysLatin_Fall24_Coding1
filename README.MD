@@ -1,13 +1,13 @@
 # Black Tech Philly's Coding Cohort Fall 2024
 
-### Class Overview 
+## Class Overview 
 
-### Class Workflow
+## Class Workflow
 
-### Async Friday Activity Guidelines
+## Async Friday Activity Guidelines
 
-### Coding Conventions 
-- **Naming files, folders, and variables**
+## Coding Conventions 
+**Naming files, folders, and variables**
 - A file/ folder/ variable name must start with a letter or an underscore character (_).
 - A file/ folder/ variable name cannot start with a digit
 - A file/ folder/ variable name can only contain alphanumeric characters and underscores (a-z, A-Z, 0-9, and _ ).
