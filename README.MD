@@ -5,6 +5,7 @@
 ## Class Workflow
 
 ## Async Friday Activity Guidelines
+Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. Activities will be due by the end of the class period. If a student is absent, the activity will be assigned as homework and must be submitted by 9:59 PM that same Friday.
 
 ## Coding Conventions 
 **Naming files, folders, and variables**
