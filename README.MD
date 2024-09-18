@@ -11,7 +11,7 @@
 Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. Activities will be due by the end of the class period. If a student is absent, the activity will be assigned as homework and must be submitted by 9:59 PM that same Friday.
 
 ## Coding Conventions 
-**Naming files, folders, and variables**
+**Naming Files, Folders, and Variables**
 <br/>
 In software development, engineers will work on code that is written in multiple files with multiple people. 
 Often times, this code will not be new and could've been written many years ago. On the flipside, engineer will leave code for others that may be working on the same document years after they've moved on. Because so many people need to work on these complex documents, there are coding standards that engineers follow to ensure everyone can understand whats going on. 
@@ -24,7 +24,7 @@ Often times, this code will not be new and could've been written many years ago.
 - A File/ folder/ variable name cannot contain spaces.
 - The variable name cannot be any keywords/ reserved words.
 
-**Multi-word Naming Conventions**
+**Multi-Word Naming Conventions**
 <br/>
 If you encounter a situation where your file, folder, or variable name is more than one word, use the following conventions to name your documents and code apporpriately. 
 
