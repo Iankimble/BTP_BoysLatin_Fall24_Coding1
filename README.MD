@@ -11,6 +11,9 @@ This course includes the following:
 ## Class Workflow
 In this course, students will engage in lectures that cover key coding concepts and gain hands-on experience by reading and writing code. Learning will be reinforced through a mix of lectures, activities, quizzes, and projects.
 
+## Class Lectures
+Students can find class review materials in the folder Labeled "Class_Lecture". 
+
 ## Async Friday Activity Guidelines
 Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. 
 <br/>
