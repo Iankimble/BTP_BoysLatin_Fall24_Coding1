@@ -15,7 +15,7 @@ In this course, students will engage in lectures that cover key coding concepts 
 Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. 
 <br/>
 
-**Async Activities for the week can be found in the "asyncActivity" folder found in this repository.** 
+**<u>Async Activities for the week can be found in the "asyncActivity" folder found in this repository.</u>** 
 <br/>
 
 **Activities will be due by the end of the class period. If a student is absent, the activity will be assigned as homework and must be submitted by 9:59 PM that same Friday.**
@@ -53,7 +53,7 @@ vsCode codespace editor.
 
 3. Once you've written your commit message click on the green button labeled "Commit". Then click it again when it is labeled as "sync changes". 
 
-**IF YOUR COMMIT MESSAGE DOES NOT FOLLOW THESE GUIDELINES YOU WILL LOSE POINTS**
+**<u>IF YOUR COMMIT MESSAGE DOES NOT FOLLOW THESE GUIDELINES YOU WILL LOSE POINTS</u>**
 
 ### Resources 
 - [W3Schools](https://www.w3schools.com/)
