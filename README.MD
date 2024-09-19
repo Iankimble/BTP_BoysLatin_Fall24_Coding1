@@ -12,7 +12,7 @@ This course includes the following:
 In this course, students will engage in lectures that cover key coding concepts and gain hands-on experience by reading and writing code. Learning will be reinforced through a mix of lectures, activities, quizzes, and projects.
 
 ## Async Friday Activity Guidelines
-Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. Activities will be due by the end of the class period. If a student is absent, the activity will be assigned as homework and must be submitted by 9:59 PM that same Friday.
+Starting in October of 2024, Fridays will feature asynchronous coding activities for students. These tasks will reinforce concepts covered throughout the week and challenge students to apply their research and collaboration skills. **Activities will be due by the end of the class period. If a student is absent, the activity will be assigned as homework and must be submitted by 9:59 PM that same Friday.**
 
 ## Coding Conventions 
 **Naming Files, Folders, and Variables**
