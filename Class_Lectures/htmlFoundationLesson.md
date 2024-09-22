@@ -34,6 +34,7 @@ that feature an opening and closing tag.
 </html_Tag>
 
 ---
+```html
 <!DOCTYPE html>
 <html>
 <head>
