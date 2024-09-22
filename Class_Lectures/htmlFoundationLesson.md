@@ -20,6 +20,7 @@ HTML code is comprised of elements. <b>HTML Elements</b> are
 blocks of code that use <b>tags</b> to display some sort of content. 
 
 (Example of an Element)
+<br/>
 <b><html_Tag></b> <i>Content</i> <b></html_Tag></b> 
 
 <b>HTML Tags</b> are built in pieces of code that do a specific 
