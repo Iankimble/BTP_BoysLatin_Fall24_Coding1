@@ -33,7 +33,7 @@ that feature an opening and closing tag.
 <i><b>A closing tag features the tag name BUT has a foward slash; "/".</b></i> 
 </html_Tag>
 
-`
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,7 +46,7 @@ that feature an opening and closing tag.
 
 </body>
 </html>
-`
+
  When we write html code, all of our code must go between the body tags.
  This is the visible area of the HTML structure (the things that you
  see on the webpage.)
