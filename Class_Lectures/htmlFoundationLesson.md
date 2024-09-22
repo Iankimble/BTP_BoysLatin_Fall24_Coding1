@@ -19,7 +19,7 @@ is built upon HTML.
 HTML code is comprised of elements. <b>HTML Elements</b> are 
 blocks of code that use <b>tags</b> to display some sort of content. 
 
-(Example of an Element)
+<b>Example of an Element</b>
 <br/>
 <b><opening_html_Tag></b> <i>Some content...</i> <b></closing_html_Tag></b> 
 
