@@ -1,10 +1,8 @@
 ## Vocabulary Terms
-- HTML
-- Syntax
-- Web application 
-- Element
-- Attribute
-
+- HTML - Stands for hyper text markup language. Used to create structure for a web application. 
+- Syntax - The rules of a language. the conventions that must be followed in writing a language.  
+- Element - A piece of HTML code that is comprised of an opening tag, content, and a closing tag.
+- Attribute - A piece of code that give html tags more power. 
 
 ## HTML Foundations 
 
