@@ -54,6 +54,9 @@ If you encounter a situation where your file, folder, or variable name is more t
 
 - **Snake Case**: Writing names where all words are lowercase but separated with the underscore symbol ( _ ). No spaces. Example: snake_case, new_folder, html_quiz_one
 
+## Problem-Solving Steps 
+
+
 ## Publishing work to Github 
 When you have completed an assignment, or would just like to ensure the work you've done is visible on your Github repo page, do the following steps to pubhlish your work to Github.
 
