@@ -32,9 +32,9 @@ that feature an opening and closing tag.
 </html_Tag>
 
 ## HTML Starter code/ Boilerplate
-
-starter code or boilerplate, is prewritten code that can be used to start a coding project. 
 ---
+starter code or boilerplate, is prewritten code that can be used to start a coding project. 
+
 ```html
 <!DOCTYPE html>
 <html>
