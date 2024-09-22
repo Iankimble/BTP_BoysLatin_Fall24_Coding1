@@ -38,18 +38,18 @@ a basic HTML page.
 
 (Example of Boilerplate html code)
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>ExamplePage Title</title>
-</head>
-<body>
+`<!DOCTYPE html>`
+`<html>`
+`<head>`
+`<title>ExamplePage Title</title>`
+`</head>`
+`<body>`
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+`<h1>My First Heading</h1>`
+`<p>My first paragraph.</p>`
 
-</body>
-</html>
+`</body>`
+`</html>`
  
  When we write html code, all of our code must go between the body tags.
  This is the visible area of the HTML structure (the things that you
