@@ -47,7 +47,7 @@ that feature an opening and closing tag.
 
 </body>
 </html>
-
+```
 ---
  When we write html code, all of our code must go between the body tags.
  This is the visible area of the HTML structure (the things that you
