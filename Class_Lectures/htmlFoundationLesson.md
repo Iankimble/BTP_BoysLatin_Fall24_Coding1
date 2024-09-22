@@ -33,24 +33,20 @@ that feature an opening and closing tag.
 <i><b>A closing tag features the tag name BUT has a foward slash; "/".</b></i> 
 </html_Tag>
 
-We use boilerplate, which is re-usable, pre-written code. to construct
-a basic HTML page. 
+`
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Tutorial</title>
+</head>
+<body>
 
-(Example of Boilerplate html code)
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-`<!DOCTYPE html>`
-`<html>`
-`<head>`
-`<title>ExamplePage Title</title>`
-`</head>`
-`<body>`
-
-`<h1>My First Heading</h1>`
-`<p>My first paragraph.</p>`
-
-`</body>`
-`</html>`
- 
+</body>
+</html>
+`
  When we write html code, all of our code must go between the body tags.
  This is the visible area of the HTML structure (the things that you
  see on the webpage.)
