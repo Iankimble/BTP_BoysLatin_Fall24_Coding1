@@ -8,6 +8,14 @@ This course includes the following:
 **Coding II**
 <br/>
 
+## Class Motivation
+- Stay locked in. This is not a class that can 
+be completed passively. You need to activey engage
+
+- Ask questions 
+
+- Be patient
+
 ## Class Workflow
 In this course, students will engage in lectures that cover key coding concepts and gain hands-on experience by reading and writing code. Learning will be reinforced through a mix of lectures, activities, quizzes, and projects.
 
