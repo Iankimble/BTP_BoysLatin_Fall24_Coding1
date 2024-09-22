@@ -25,14 +25,12 @@ blocks of code that use <b>tags</b> to display some sort of content.
 
 <b>HTML Tags</b> are built-in pieces of code that do a specific 
 task to create an html elements. HTML tags come in pairs 
-that feature an opening and closing tag. We 
+that feature an opening and closing tag.
 
-<i>An opening Tag features the tag name between two arrows</i>  
-<br/>
-<<html_Tag> 
-<br/>
-<i>A closing tag features the tag name BUT has a foward slash; "/".</i> 
-<br/>
+<i><b>An opening Tag features the tag name between two arrows</b></i> 
+<html_Tag> 
+
+<i><b>A closing tag features the tag name BUT has a foward slash; "/".</b></i> 
 </html_Tag>
 
 We use boilerplate, which is re-usable, pre-written code. to construct
