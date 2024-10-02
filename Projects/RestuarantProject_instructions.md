@@ -7,16 +7,16 @@ In this week’s lesson, you will continue getting hands-on learning on HTML and
 - Daily Log: Students must log their individual contributions each day in a text file stored within the project folder. Students can log and publish as many times as needed but there should be atleast one (1) log published for each day.
 
 ### What should you name your group project folder and what should be inside of it
-- Your group folder should be named restuarantProject and it should  contain all of files.
+**Your group folder should be named restuarantProject and it should  contain all of files.**
 <br/>
 
-- groupLog.txt: A text file named called groupLog.txt should be inside this folder. it should detail what each group member did for that day in a few sentences. To see an example of a daily log, look at example project folder.
-- restuarantPitch.txt: A document named restuarantPitch.txt should be inside your project folder. this document should contain at least 500 words, with that contain the following:
+- **groupLog.txt**: A text file named called groupLog.txt should be inside this folder. it should detail what each group member did for that day in a few sentences. To see an example of a daily log, look at example project folder.
+- **restuarantPitch.txt**: A document named restuarantPitch.txt should be inside your project folder. this document should contain at least 500 words, with that contain the following:
 - Introduction: The name of your donut shop and the team members who worked on it
 - Body: Tell us about your donut shop and what makes it special and different from other donut shops. 
 <br/>
 
-- yourRestuarant.html: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. Your website should have the following elements:
+- **yourRestuarant.html**: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. Your website should have the following elements:
 - A Navbar: A navigation bar with the following links: Home, Menu, Order Online, About.
 - Landing Image section: A prominent image of the donuts.
 - Unique Feature section: One unique item or service related to your donut shop.
