@@ -3,6 +3,8 @@ In this week’s lesson, you will continue getting hands-on learning on HTML and
 
 ### Criteria
 - Group Size: Each group can have a maximum of four (4) students. Groups larger than four must receive approval from the instructor.
+**Note: You are permitted to work independently, in a duo, or in a trio as well.**
+
 - Code Collaboration: Each group will contribute code from one of the group member’s repository.
 - Daily Log: Students must log their individual contributions each day in a text file stored within the project folder. Students can log and publish as many times as needed but there should be atleast one (1) log published for each day.
 
