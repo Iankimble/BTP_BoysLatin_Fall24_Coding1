@@ -35,12 +35,12 @@ SuperGood_restuarant.html
 Your group project will be graded on the following:
 
 - Is your project named and structured properly ?
-- Does your project folder contain a donutShopPitch.txt file?
-- Does your donut shop pitch have at least 500 characters and addresses the requested information?
+- Does your project folder contain a restuarantPitch.txt file?
+- Does your restuarant pitch have at least 500 characters and addresses the requested information?
 - Does your project folder contain a groupLog.txt file?
 - Does your group log have at least 1 log for each day?
-- Does your project folder contain a donutShop.html file?
-- Does your donut shop website have all the required elements?
+- Does your project folder contain a restuarant.html file?
+- Does your restuarant website have all the required elements?
 
 ## When is the project due
 **Your project will be do on Friday, October 11th, 2024 at the end of the class period.** You and your group will begin
