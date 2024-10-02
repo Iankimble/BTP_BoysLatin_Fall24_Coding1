@@ -15,7 +15,7 @@ In this week’s lesson, you will continue getting hands-on learning on HTML and
 - Introduction: The name of your donut shop and the team members who worked on it
 - Body: Tell us about your donut shop and what makes it special and different from other donut shops. 
 
-**yourRestuarant.html**: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. Your website should have the following elements:
+**yourGroupName_Restuarant.html**: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. Your website should have the following elements:
 - A Navbar: A navigation bar with the following links: Home, Menu, Order Online, About.
 - Landing Image section: A prominent image of the donuts.
 - Unique Feature section: One unique item or service related to your donut shop.
