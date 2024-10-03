@@ -1,31 +1,39 @@
 ## Restuarant Website Overview
-In this week’s lesson, you will continue getting hands-on learning on HTML and CSS skills by working on a collaborative group project. Each group will design and develop the interface of a fictional restuarant of their own creation using HTML and CSS. Each group's restuarant shop must have a unique feature or selling point that makes it stand out amongst other restuarants (for example a donut shop luandry mat). The project must meet the criteria outlined below to receive full credit.
+In this week’s lesson, you will continue getting hands-on learning on HTML and CSS skills by working on a collaborative group project. Each group will design and develop the interface for a fictional restuarant of your own creation using HTML and CSS. Each group's restuarant shop must have a unique feature or selling point that makes it stand out amongst other restuarants (for example a donut shop luandry mat). The project must meet the criteria outlined below to receive full credit.
 
 ### Criteria
 - Group Size: Each group can have a maximum of four (4) students. Groups larger than four must receive approval from the instructor.
+
 **Note: You are permitted to work independently, in a duo, or in a trio as well.**
 
 - Code Collaboration: Each group will contribute code from one of the group member’s repository.
 - Daily Log: Students must log their individual contributions each day in a text file stored within the project folder. Students can log and publish as many times as needed but there should be atleast one (1) log published for each day.
 
+**Note: Each group will be required to present and answer technical quesions pertaining to thier project**
+
 ### What should you name your group project folder and what should be inside of it
+
 **Your group folder should be named <u>restuarantProject</u> and it should contain all of files.**
 
-**groupLog.txt**: A text file named called groupLog.txt should be inside this folder. it should detail what each group member did for that day in a few sentences. To see an example of a daily log, look at example project folder.
+**1. groupLog.txt**: A text file named called groupLog.txt should be inside this folder. it should detail what each group member did for that day in a few sentences. To see an example of a daily log, look at example project folder.
 
-**restuarantPitch.txt**: A document named restuarantPitch.txt should be inside your project folder. this document should contain at least 500 characters, with that contain the following:
+**2. restuarantPitch.txt**: A document named restuarantPitch.txt should be inside your project folder. this document should contain at least 500 characters, that contain the following:
 
 - Introduction: The name of your restuarant, the team members who worked on it, and what type of restuarant your team has built. 
-- Body: Tell us about your restauarant and what makes it special and different from other similar restuarants.
+- Body: Tell us about your restauarant and what makes it special and different from other restuarants.
 
-**yourGroupName_Restuarant.html**: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. Your website should have the following elements:
+**3. yourGroupName_Restuarant.html**: You should have a html document called yourGroupName_restuarant.html. How you style your HTML site with CSS is up to you and your group. 
+
 **NOTE: "yourGroupName" is just a placeholder. Here are a few examples of how you should name your html file:**
 
-IansDonutCleaner_restuarant.html
+Example of a student working independently: IansDonutCleaner_restuarant.html
 
-SupremeTeam_restuarant.html
+Example of a group using their team name: SupremeTeamFood_restuarant.html
 
-SuperGood_restuarant.html
+Example of a group using their restaurant name: SuperGoodFood_restuarant.html
+
+## What should be on your restuarant website
+Your website should have the following elements:
 
 - A Navbar: A navigation bar with the following links: Home, About, Menu, and Order Online .
 - Landing Image section: A prominent image of the donuts.
@@ -50,10 +58,9 @@ presenting your class project starting on the following week.
 
 ## helpful tips
 - Use W3schools to guide as a reference tool for looking up HTML and CSS code.
-- Use google for inspiration for website designs.
-- Be sure to commit/ publish somthing each day.
-- Do not use AI content generation models. You will automatically fail if caught using AI.
-- You are permitted to use google to find articles and videos that can help you develop you project.
+- Use google for inspiration for website designs as well as to find articles and videos that may help you build your website.
+- Be sure to commit/ publish somthing each day - this is required as part of your daily group log.
+- Do not use AI content generation applications. You will automatically fail if caught using AI.
 - As it pertains to the presentation, each member should be prepared to explain their contribution as well
 as answer technical questions as it relates to the application. 
 
