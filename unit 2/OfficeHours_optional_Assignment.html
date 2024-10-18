@@ -1,0 +1,86 @@
+<!-- You have been hired to develop a business page for a shipping company.
+The shipping company would like to have the following:
+- a header/ landing image with their company name (company name is Express shipping)
+- an about section telling people about their service
+- a shipping form that has the following:
+- first name
+- last name
+- address (from)
+- address (to)
+- a space describing what they are shipping
+- a space for additional notes
+- a submit button 
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Express Shipping</title>
+    <style>
+      body {
+        background-color: rgb(201, 201, 201);
+        align-items: center;
+        text-align: center;
+      }
+      .grid-container {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto auto auto;
+      }
+      .formGrid {
+        grid-row: 2;
+      }
+    </style>
+  </head>
+  <body class="grid-container">
+    <div>
+      <h1>Express Shipping</h1>
+    </div>
+
+    <div style="margin: 30px">
+      <h3>About us</h3>
+      <p>
+        orem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.
+      </p>
+    </div>
+    <div>
+      <h3>Shipping Form</h3>
+      <form>
+        <div class="formGrid">
+          <label for="fname">First name:</label><br />
+          <input type="" id="fname" name="fname" value="" /><br />
+
+          <label for="lname">Last name:</label><br />
+          <input type="text" id="lname" name="lname" value="" />
+          <br />
+        </div>
+        <label for="lname">Shippping From:</label><br />
+        <input type="text" id="lname" name="lname" value="" />
+        <br />
+        <label for="lname">Shippping To:</label><br />
+        <input type="text" id="lname" name="lname" value="" />
+        <br />
+        <br />
+
+        <textarea id="w3review" name="w3review" rows="5" cols="50">
+What are you shipping ?     
+</textarea
+        >
+        <br />
+        <br />
+        <textarea id="w3review" name="w3review" rows="5" cols="50">
+Addiional shipping notes (fragile, weight, etc...)</textarea
+        >
+      </form>
+      <button>submit</button>
+    </div>
+  </body>
+</html>
