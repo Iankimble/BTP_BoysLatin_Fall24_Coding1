@@ -3,7 +3,7 @@ To earn additional credit, you can complete any of the following development pro
 Please be sure to follow the naming conventions and directions to get full credit. These websites will be due at the end of class on Friday, October 25th, 2024.
 
 For your extra credit work, please put all work inside of a **NEW FOLDER** called Q1_extraCredit
-
+your projects must use CSS grid. 
 Good Luck!
 
 ## Shipping and Delivery Company Webpage
@@ -15,7 +15,7 @@ As an engineer, you have been tasked with developing a webpage for a shipping an
 - Item description
 - Weight or dimensions
 - Destination address
-- Preferred shipping method
+- Shipping origin address
 - Contact information for the sender and recipient
 
 **Please make sure to name your code file as shippingCompany.html**
