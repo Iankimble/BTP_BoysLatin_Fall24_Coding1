@@ -6,12 +6,11 @@ For your extra credit work, please put all work inside of a **NEW FOLDER** calle
 your projects must use CSS grid. 
 Good Luck!
 
-## requirements
+## Requirements
 - Please be sure to have the correct folder name and file name for your web app.
 - Your website needs to use the CSS grid system to layout your website. 
 - Your website must contain all of the specified features listed in the prompt. 
-- 
-## rew
+
 
 ## Shipping and Delivery Company Webpage Prompt
 As an engineer, you have been tasked with developing a webpage for a shipping and delivery company. The client has requested the following features:
