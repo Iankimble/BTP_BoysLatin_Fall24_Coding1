@@ -41,7 +41,7 @@ You have been hired to design a website for an art gallery. The following elemen
 
 
 ## Boys Latin News Blog
-You will be developing a news blog for BTP. The following features are required:
+You will be developing a news blog for Boys Latin. The following features are required:
 
 - Landing Image: A header image that represents the blog or school.
 - Blog Posts: Three (3) blog posts, each featuring:
