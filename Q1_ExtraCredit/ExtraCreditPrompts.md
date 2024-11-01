@@ -50,3 +50,4 @@ You will be developing a news blog for Boys Latin. The following features are re
 - the blog post should also include a title and a date when the post was published
 
 **Please make sure to name your code file as blBlog.html**
+
