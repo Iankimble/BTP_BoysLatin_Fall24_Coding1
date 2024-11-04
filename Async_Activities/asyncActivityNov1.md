@@ -1,4 +1,8 @@
 ## Async Friday Activity November 1st, 2024
+Inside your unit 2 folder create a new file called **asyncActivity_nov1.py OR asyncActivity_nov1.js**
+
+**(The file type will be based on which programming language your class is learning)**
+
 Please complete the following questions before class is end.
 There are no exceptions for being absent. If you are not present this will be homework and must be submitted before 9pm 11/1/24. 
 
