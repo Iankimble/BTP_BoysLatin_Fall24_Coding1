@@ -1,5 +1,5 @@
 ## Async Friday Activity November 1st, 2024
-Inside your unit 2 folder create a new file called **asyncActivity_nov1.py OR asyncActivity_nov1.js**
+Inside your unit 3 folder create a new file called **asyncActivity_nov1.py OR asyncActivity_nov1.js**
 
 **(The file type will be based on which programming language your class is learning)**
 

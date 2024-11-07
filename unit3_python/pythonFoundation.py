@@ -34,3 +34,63 @@ tom= 90
 
 print(john)
 
+
+
+
+
+# Python variables are just containers for data
+email= 'iank123@gmail.com' # string data type
+checkingAccount= 200000.43 # float data type
+didYouGetFluShot = True # boolean data type
+userLogin_passwordReset_premiumMember = '' 
+user_password = ''
+discount25= .25
+
+# Camel Case = when naming a variable, 
+# every word after the first word is capitalized 
+loginName=''
+resetPasswordCode ='' 
+
+# Snake Case = when naming a variable, every word after
+# the first word is spaced out with an underscore.
+login_name=''
+reset_password_code='123abc'
+
+# Pascal Case = when naming a variable, every 
+# new word is capitalized
+LoginName= ''
+ResetPasswordCode =''
+
+
+
+
+
+# camel Case= every new word starts with a capital letter
+# the letter are supposed to resemble a camels hump
+homeAddress = '123 Main street'
+telephoneNumber= 123214343243
+telphoneBillPaid= False
+balance = 300.00
+
+# snake case = every word is seperated by an underscore
+# the underscore is supposed to represent a snake
+cellular_Code_by_User_state_reset_Password = '970e2197e09217209'
+
+# pascal case= every word word is capitalized
+# pascal is a name so it mimics First name Last name capitalizatoin
+FamilyDiscountCode25 = .25
+FamilyDiscountCode50=.50
+FamilyDiscountCode100= 1.00
+
+x = 20 # we are assigning the value of 20 to the variable x
+
+x = x + 3 # we are assigning the value of x and then adding 3 to it. 
+
+# single equal sign (=) # the equal sign in python has nothing to do with math.
+# we are assigning a value-NOT getting a result.
+
+# double equal sign (==) is used for comparisons
+valueA= 98
+valueB= 100
+
+print(valueA == valueB)

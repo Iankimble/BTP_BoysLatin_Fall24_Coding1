@@ -30,3 +30,5 @@ var weather_city = 'philly' // universal variable keyword.
 let weather_temp = 70 // temporary/ expected to change.
 let forcast_weekly = 'sunny' // constant/ doesnt change.
 const main_city_weather ='Philly'
+
+# 
