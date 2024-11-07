@@ -94,3 +94,40 @@ valueA= 98
 valueB= 100
 
 print(valueA == valueB)
+
+
+searchByName = 'ian215code'
+
+instagramUsername = 'ian215code'
+numberOfPosts= 20
+numerOfLikes = 100
+bookMarks = 10
+
+edit= ''
+
+# every word is capitalized
+EditProfile = False
+EditProfileByName =''
+EditReset= ''
+
+# snake case= evey word is seperated by a underscore. 
+edit_profile_reset_password_by_text_msg=''
+
+edit_profile_reset_password_by_email= ''
+
+edit_profile_reset_password_by_phone =''
+
+# camel case = every word after the first word is capitalized. 
+editPictureImage=''
+editPictureText=''
+editPictureFilter=''
+
+followers= 100
+Follwing= 106
+totalFollows= followers +Follwing
+
+productInventory = 12
+productSold = 8
+totalInventoryLeft =''
+
+print(totalFollows)
