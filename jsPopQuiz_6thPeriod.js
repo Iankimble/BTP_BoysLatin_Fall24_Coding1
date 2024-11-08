@@ -33,6 +33,10 @@
 
 // 6. Create three variables where when combined will result in the value of 36. 
 // Please use the console.log () to out put your result. 
+var a=""
+var b=""
+var c=""
+console.log(a+b+c)
 
 // 7. Fill in the variable that will output the appropriate result. 
 
