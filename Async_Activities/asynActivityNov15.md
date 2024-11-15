@@ -2,8 +2,12 @@
 inside of your unit 3 folder create a new file called 
 asyncActivityNov11.py OR asyncActivityNov11.js, depending on which programming language you are learning. 
 
+Please follow the directions provided and answer the following questions.This will be do at the end of class. This will need to be submitted whether you are present or not. 
+
 The following async questions are program agnostic (meaning that
 the questions can be answered regardless of which programming language you are learning)
+
+Good luck.
 
 1. A company is developing a security system that requires 2 factor authorization. This means that the system needs to verify that 2 pieces of data are correct for the person to enter the building. When someone approached the building they need to have the correct name and correct passcode to enter the building. 
 Which operator would be used here? Please provide a code example of how you would write this and output the result using the print() function for python or the console.log() function for javascript? 
@@ -23,7 +27,7 @@ In this scenario, they are supposed to have 10 ECG machines, but only recieved 4
 for students learning Python
 print('my name is' + name '.  I am ' + age + 'years old.' )
 
-# for student's learning JavaScript
+## for student's learning JavaScript
 4. Identify and explain what each of these symbols are
 - =
 - &&
