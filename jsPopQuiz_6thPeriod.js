@@ -3,7 +3,13 @@
 // When you have completed the quiz, please commit and sync your work so that it can be
 // graded.
 
+let person = prompt("Please enter your name:");
+if (person != null) {
+    console.log(person)
+  }
+
 // RULES
+
 // You are ONLY permitted to use W3 schools. 
 // You may NOT use any other external websites.
 // No music is permitted during the quiz. 
