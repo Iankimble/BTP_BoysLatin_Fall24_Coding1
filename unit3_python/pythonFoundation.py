@@ -131,3 +131,6 @@ productSold = 8
 totalInventoryLeft =''
 
 print(totalFollows)
+
+name = input('what is your name')
+print(name)

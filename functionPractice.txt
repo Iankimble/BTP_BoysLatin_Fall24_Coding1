@@ -1,0 +1,8 @@
+For JS the lesson is going to be about writting functions
+and connecting functions to HTML- being able to see the data 
+output in html. goal should be to create simple function to do math 
+as well as enter text
+
+For Python, be able to output text and do math. 
+
+show them how to use input function
