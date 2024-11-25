@@ -9,11 +9,11 @@
 # do is pass our data into it. 
 
 # example of built-in functions
-print('coding class')
+#print('coding class')
 
-name = input('What is your name?')
+#name = input('What is your name?')
 
-print('hello ' + name)
+#print('hello ' + name)
 
 # User- Defined Functions- Are custom functions where engineers
 # provide the instructions and the data. 
@@ -27,9 +27,42 @@ def sandwich():
     print('step 3. put it together.' )
 
 # function call= runs your code when you tell it to. 
-sandwich()
+#sandwich()
 
 def multiply(number):
     print(number * 825)
+#multiply(5)
 
-multiply(5)
+
+# 11/20/24
+    
+# functions using arithmetic operators
+
+# What is a function?
+    'a function is a set of instructions that performs a '
+    'specific task or job.'
+
+print('hello')
+# answer =input('what does input do?')
+# print(answer)
+    
+def depositMoney(x):
+    checkAccountAmount = 500
+    print('Money has been added to your account.')
+    print(checkAccountAmount + x)
+
+depositMoney(28)
+
+def withdrawMoney(x):
+    checkAccountAmount = 500
+    print('Money has been subtracted from your account.')
+    print(checkAccountAmount - x)
+    
+withdrawMoney(120)
+
+def checkAccountBalance():
+    checkAccountAmount = 500
+    print('Here is the current amount in your account: ')
+    print(checkAccountAmount)
+
+checkAccountBalance()
