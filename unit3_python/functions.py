@@ -42,7 +42,7 @@ def multiply(number):
     'a function is a set of instructions that performs a '
     'specific task or job.'
 
-print('hello')
+#print('hello')
 # answer =input('what does input do?')
 # print(answer)
     
@@ -51,18 +51,32 @@ def depositMoney(x):
     print('Money has been added to your account.')
     print(checkAccountAmount + x)
 
-depositMoney(28)
+#depositMoney(28)
 
 def withdrawMoney(x):
     checkAccountAmount = 500
     print('Money has been subtracted from your account.')
     print(checkAccountAmount - x)
     
-withdrawMoney(120)
+#withdrawMoney(120)
 
 def checkAccountBalance():
     checkAccountAmount = 500
     print('Here is the current amount in your account: ')
     print(checkAccountAmount)
 
-checkAccountBalance()
+# checkAccountBalance()
+
+
+
+
+
+
+# function to check age
+
+# function to select an item
+
+
+
+
+
