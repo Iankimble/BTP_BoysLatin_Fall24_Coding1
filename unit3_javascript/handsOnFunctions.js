@@ -1,34 +1,46 @@
-// Lesson on Conditional Statements
-// Discuss the anatomy of a function 
+// Anatomy of a function
 
+// curly brackets = this is called a parameter. we pass data
+// inside of the functions parameters
 
-// Activity 
+// parameter = placeholder for data
+// data = just means data types
 
-// 1. Create a function that will convert a number that is passed into the 
-// functions parameters and convert the number into minutes. 
-// For example, a value of 2 should return 120 minutes. a value of 3 should
-// return 180 minutes, etc. 
+// Condtional Statements in JS
 
-// 2. Create a function that will accept a word in the function parameter
-// and return the word in reverse order.
-// For example, the word 'pet' should return as 'tep', the word 'book'
-// should return as 'koob', etc. 
-// HINT- There is a built-in function that you can use to accomplish this. 
+// Conditional statements are written using the 'IF' and 'ELSE'
+// keywords. This allows use to make decisions based on data
+// our function recieves.
 
+// Activity
 
-// 3. Create a function that uses a conditional statement to output a block
-// of text that will tell users about a states landmarks. 
-// Your program should return the following states and their respective 
-// landmarks. For example, if a user passes in the value of south carolina,
-// in the function parameter, your program should return the message:
-// ' A landmark in South Carolina is Fort Sumter, where the inital shots of the'
-// 'American Civil war took place.' WRITE A COMPLETE SENTENCE!
+// 1. Create a function that will take a number that
+// is passed into the functions parameters and convert
+// the number into minutes. For example, a value of 2
+// should return 120 minutes. a value of 3 should
+// return 180 minutes, etc.
 
-// Pennsylvania = Liberty Bell.
-// New York = Statue of Liberty.
-// California = Hollywood Walk of Fame. 
-// One additional state and landmark of your choice.
+function hoursToMinutes(hour) {
+  console.log(hour * 60 + " minutes");
+}
 
-// If you pass in a state that does not exist in your program,
-// your function should return a message saying that the state 
-// could not be found.
+//hoursToMinutes(15);
+
+// Conditional Statements
+// If/ Elese keywords used create specific
+// outcomes based on the data the function recieves.
+
+function timeManagementSystem(hoursWorked) {
+  if (hoursWorked < 8) {
+    console.log("Unfortunately you will not get full time pay.");
+  } else if (hoursWorked > 8) {
+    console.log("You will be paid overtime. ");
+  } else if (hoursWorked > 16) {
+    console.log("You are working way too hard! ");
+  } else {
+    console.log("You will get paid full time for the day.");
+  }
+}
+
+timeManagementSystem(10);
+
