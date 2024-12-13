@@ -1,9 +1,9 @@
-Please create a new file called asyncActivityDec13.py or asyncActivityDec13.js and complete the following questions. 
+## Please create a new file called asyncActivityDec13.py or asyncActivityDec13.js and complete the following questions. 
 
-This assignment is due at the end of class. If you are not present for class this 
-will be do as homework.
+## This assignment is due at the end of class. If you are not present for class this 
+## will be do as homework.
 
-good luck.
+## good luck.
 
 1. Create a function that will determine if a number passed into it's funtion parameters is either positive or negative. For example, If I pass in the number
 10 it should return the message,"this  is a positive number", or if I type in the number -12, it should return the message, "this is a negative number. If the user
