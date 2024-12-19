@@ -104,4 +104,20 @@ function verifyAge(age) {
     console.log("You may NOT have access to this site.");
   }
 }
-verifyAge(50)
+verifyAge(50);
+
+function positiveOrNegative(number) {
+  console.log("coding is working "); // this is just for testing
+  console.log(number); // this is just for testing
+  if (number >= 1) {
+    console.log("this is a postive number.");
+  } else if (number < 0) {
+    console.log("this is a negative number.");
+  } else if(number== 0){
+    console.log('this is the number 0.')
+  } else{
+    console.log('sorry, this is not a number.')
+  }
+}
+
+positiveOrNegative(9);
