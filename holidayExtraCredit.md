@@ -2,6 +2,12 @@
 
 Create a new document called holidayExtraCredit.py or holidayExtraCredit.js (depending on which programming language you are learning) and complete the following prompt.
 
+This assignment will be graded on accuracy- NOT effort. Your code NEEDS to work to get full credit. 
+
+You will have until 8pm tonight, 12/19/2024 to complete this assignment. 
+
+MAKE SURE TO TEST YOUR CODE BEFORE YOU SUBMIT YOUR WORK
+
 ## Holiday schedule function
 
 Create a function that will act as your holiday schedule planner. When you pass in a date. The event
