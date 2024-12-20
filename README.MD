@@ -80,7 +80,7 @@ vsCode codespace editor.
 ## Python Functions
 ![Python functions part 1](functionInstructionPython1.png)
 
-![Python functions part 1](functionInstructionPython2.png)
+![Python functions part 2](functionInstructionPython2.png)
 
 
 
