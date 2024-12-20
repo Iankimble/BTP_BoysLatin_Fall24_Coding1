@@ -33,23 +33,23 @@ If the warning is not honored the phone will be taken until the end of class. Re
 
 Good Luck
 
-1. In your own words, describe what a function is. Please write your response in a complete sentence.
+1. In your own words, describe what a function is. Please write your response in a complete sentence as a string data type.
 
 2. In your own words, describe the difference between a function parameter and a function argument.
-   Please write your response in a complete sentence.
+   Please write your response in a complete sentenc as a string data typee.
 
 3. In your own words, describe what an if/ else conditional statement is. Please write your response
-   in a complete sentence.
+   in a complete sentence as a string data type.
 
-4. What is an integer data type? Please write your response in a complete sentence.
+4. What is an integer data type? Please write your response in a complete sentence as a string data type.
 
-5. What is a boolean data type? Please write your response in a complete sentence.
+5. What is a boolean data type? Please write your response in a complete sentence as a string data type.
 
 6. Which operator would work best for the following function: 
-An age verification function that needs to check if a user is a certain age and older to purchase a video game.
+An age verification function that needs to check if a user is a certain age and older to purchase a video game. Please write your answer as a string.
 
 7. Which operator would work best for the following function: 
-An office security function that needs to have a specific alpha-numeric code to be entered in order to enter and exit a building.
+An office security function that needs to have a specific alpha-numeric code to be entered in order to enter and exit a building. Please write your answer as a string.
 
 8. You have been hired by Github to help them fix their password system. They would like you to create A
    function that will check how long a password is. Your program should be able to accept a alpha-numeric password
