@@ -73,5 +73,11 @@ vsCode codespace editor.
 - [W3Schools](https://www.w3schools.com/)
 
 
+![JavaScript functions part 1](.functionInstructionJs1.png)
+![JavaScript functions part 2](.functionInstructionJs2.png)
+
+![Python functions part 1](.functionInstructionPython1.png)
+![Python functions part 1](.functionInstructionPythons1.png)
+
 
 
