@@ -1,5 +1,10 @@
 # Black Tech Philly's Coding Cohort Fall 2024
 
+## Class Assignment submission Form (updated weekly)
+please use the link below to submit your assignments
+
+- [Repository Submission Link](https://forms.gle/bTqNEuYSAjbW6L4FA)
+
 ## Class Overview 
 This course includes the following:
 <br/>
