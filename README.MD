@@ -5,6 +5,11 @@ please use the link below to submit your assignments
 
 - [Repository Submission Link](https://forms.gle/bTqNEuYSAjbW6L4FA)
 
+
+## TO CHECK THE STATUS OF YOUR ASSIGNMENT
+## CLICK THE LINK BELOW
+- [Submission Status Link ](https://docs.google.com/spreadsheets/d/1Ty95eGKxlbqx5c6RmmqJ0AGDGwAD0qrJY9e6B24ctFs/edit?usp=sharing)
+
 ## Class Overview 
 This course includes the following:
 <br/>
