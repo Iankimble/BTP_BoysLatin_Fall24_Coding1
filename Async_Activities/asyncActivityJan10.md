@@ -19,8 +19,9 @@ isle.
 ### 2. With the list provided below; use the print (for python) or console.log (for javascript) functions to return the correct value for the index.
 
 numbers = [1,30,39,50,293,100]
-## Hint: If you get stuck, search for accessing JS list by index or
-## accessing Python list by index depending on which language you are learning
+
+<b>Hint: If you get stuck, search for accessing JS list by index or
+accessing Python list by index depending on which language you are learning</b>
 
 - print/ console.log the number at index 0
 - print/ console.log the number at index 3
