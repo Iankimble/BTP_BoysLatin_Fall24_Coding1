@@ -1,6 +1,6 @@
 # Async Activity January 10th, 2025. 
 
-Please create a new file called asyncActivityJan10.py or asyncActivityJan10.js and complete the following questions. 
+Please create a new file called <b>asyncActivityJan10.py or asyncActivityJan10.js</b> and complete the following questions. 
 
 This assignment is due at the end of class. If you are not present for class, this assignment will need to be completed as homework before 11pm tonight (Jan. 10, 2025).
 
@@ -10,18 +10,18 @@ This assignment is due at the end of class. If you are not present for class, th
 - Drop the link to your repository in the following link below
 - [Async Activity Jan.10, 2025 Submission Link](https://forms.gle/JLuFfhdVcJZyNQEn7)
 
-### 1. Create 3 lists data types that will include things found in grocery store; 
-- A list should include 5 items that you can find in the frozen food isle.
-- A list should include 5 items that you can find in the international food isle.
-- A list that should include 5 items that you can find in the produce 
+### 1. Create 3 different lists data types that will include things found in grocery store. Make sure your items use the string data type.
+- Create a list that includes 5 items that you can find in the frozen food isle. 
+- Create a list that includes 5 items that you can find in the international food isle.
+- Creat a list that includes 5 items that you can find in the produce 
 isle. 
 
 ### 2. With the list provided below; use the print (for python) or console.log (for javascript) functions to return the correct value for the index.
 
 numbers = [1,30,39,50,293,100]
 
-<b>Hint: If you get stuck, search for accessing JS list by index or
-accessing Python list by index depending on which language you are learning</b>
+<b>Hint: If you get stuck, search for <b>accessing JS list by index or
+accessing Python list by index </b> depending on which language you are learning</b>
 
 - print/ console.log the number at index 0
 - print/ console.log the number at index 3
