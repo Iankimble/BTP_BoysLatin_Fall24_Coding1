@@ -1,2 +1,5 @@
-console.log('JS file connected')
+console.log("JS file connected");
+
+document.getElementById("personalMsg").innerHTML =
+  "Welcome to front end development.";
 
