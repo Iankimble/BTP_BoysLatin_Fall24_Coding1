@@ -33,6 +33,7 @@ You need to finish this code by adding your countdown function.
 
 you can write you function between the <script> tags OR you can use the src attribute and import your js file into your html file.
 
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -45,9 +46,10 @@ you can write you function between the <script> tags OR you can use the src attr
       function runLoop() {
         var input = document.getElementById("userInput").value;
         console.log(input)
-        
-        // your loop function should go here. 
+
+        // your loop function should go here.
       }
 </script>
   </body>
 </html>
+```
