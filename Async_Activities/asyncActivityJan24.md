@@ -13,17 +13,19 @@ to ensure your assignment is submitted properly. </b>
 - Drop the link to your repository in the following link below
 - [Async Activity Jan.24, 2025 Submission Link](https://forms.gle/PNqjQpwwnsBcj4H57)
 
-numberList = [1,23,56,3,56,3,20,200]
 
+### FOR BOTH PYTHON AND JAVASCRIPT STUDENTS
+
+numberList = [1,23,56,3,56,3,20,200]
 1. Create a function that uses a while loop to print/ console.log the list but in reverse order.
 
-## FOR PYTHON STUDENTS
+### FOR PYTHON STUDENTS ONLY
 
 2. You have been hire as a software engineer for amazon to develop a new 2-factor login system. Users will need to provide 2 passwords to get access to their amazon account. Your new password function should run on a while loop. Your function will need to ask the user to enter their normal password, which should be a string. If the password is correct, they will then need to enter a second password which should be a float. If either of these passwords are incorrect, it should tell the user to try again. If the user is able to enter both passwords correctly, they should get a confirmation and congratulation message saying they can now access their account.
 
 HINT: you will need to use a conditional (IF/ELSE) statement
 
-## FOR JAVASCRIPT STUDENTS
+### FOR JAVASCRIPT STUDENTS ONLY
 
 2. Create a countdown timer that takes in an number passed in from a HTML document. Your HTML document should be called countdownLoop.html your countdown timer function should use a while loop that will start the count based on the number you provide and then stop at zero (for example; If I type in the number 5 my countdown timer should output 5,4,3,2,1,0 in the console.log). The numbers counting down should be displayed in the your browsers console (right-click to open the inspect tool and the hover over the icon that says console.)
 
