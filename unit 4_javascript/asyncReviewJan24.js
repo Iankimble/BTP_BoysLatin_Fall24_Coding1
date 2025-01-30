@@ -8,10 +8,21 @@ var numberList = [1, 23, 56, 3, 56, 3, 20, 200]
 
 function reverseNumbers(){
     var ListNumber = 7
-    while( ListNumber >=0 ){
+    while( ListNumber >= 0 ){
         console.log(numberList[ListNumber])
         ListNumber -=1
     }
 }
 
 reverseNumbers()
+
+function runLoop() {
+    var input = document.getElementById("userInput").value;
+
+    while ( input >= 0 ){
+        console.log('countdown')
+        console.log(input)
+        input -=1
+    }      // variable. 
+  }
+  
