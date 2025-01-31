@@ -31,7 +31,7 @@
 # allow the player to play 3 hands, and inform the 
 # player if the won or lost (best 2 out of 3 format.) 
 
-#  1. What is the problem asking you to do?
+# 1. What is the problem asking you to do?
 
 # 2. What are some keywords and phrases ? 
 
@@ -42,3 +42,4 @@
 # 5. Pseudocode Steps & Additional Notes 
 
 # Solution
+
