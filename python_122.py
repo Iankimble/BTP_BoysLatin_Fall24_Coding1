@@ -1,15 +1,8 @@
-# user defined function
-txt= input('Please write your name')
-print('hello __'+ txt)
+# python version
+def mystery_function(x):
+    numbers = [1,2,3,4,5,6,7,8,9,10]
+    i = 0
+    for i in numbers:
+ 	    print(i * x)
 
-# user defined function
-
-# function definition
-def  doMath():
-    print(2+10)
-
-# function call
-doMath()
-
-
-
+mystery_function(2)

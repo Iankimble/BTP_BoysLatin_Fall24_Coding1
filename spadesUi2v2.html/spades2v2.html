@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spades Game UI</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #2E8B57;
+            color: white;
+        }
+        canvas {
+            background-color: #006400;
+            border: 2px solid white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Spades - Four Player Layout</h1>
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById("gameCanvas");
+        const ctx = canvas.getContext("2d");
+        
+        const players = {
+            player1: { cards: ["♠A", "♠K", "♠Q", "♠J", "♠10"], position: [350, 550], label: "Player 1 (You)" },
+            player2: { cards: ["♥A", "♥K", "♥Q", "♥J", "♥10"], position: [650, 250], label: "Player 2" },
+            player3: { cards: ["♦A", "♦K", "♦Q", "♦J", "♦10"], position: [350, 50], label: "Player 3" },
+            player4: { cards: ["♣A", "♣K", "♣Q", "♣J", "♣10"], position: [50, 250], label: "Player 4" }
+        };
+        
+        let playedCards = [];
+        
+        function drawLayout() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            Object.values(players).forEach(player => {
+                ctx.fillStyle = "white";
+                ctx.font = "20px Arial";
+                ctx.fillText(player.label, player.position[0] - 50, player.position[1] - 10);
+            });
+            
+            // Draw player cards
+            Object.entries(players).forEach(([key, player], index) => {
+                for (let i = 0; i < player.cards.length; i++) {
+                    let xOffset = player.position[0] - (player.cards.length * 40) / 2 + i * 40;
+                    let yOffset = player.position[1];
+                    if (key === "player3") {
+                        drawCard(xOffset, yOffset, ""); // Face-down cards for player 3
+                    } else {
+                        drawCard(xOffset, yOffset, player.cards[i]);
+                    }
+                }
+            });
+            
+            // Draw play area
+            ctx.strokeRect(350, 250, 100, 150);
+            ctx.fillText("Play Area", 365, 240);
+            
+            // Draw played cards
+            playedCards.forEach((card, index) => {
+                drawCard(360, 270 + index * 30, card);
+            });
+        }
+        
+        function drawCard(x, y, text) {
+            ctx.fillStyle = "white";
+            ctx.fillRect(x, y, 40, 60);
+            ctx.strokeStyle = "black";
+            ctx.strokeRect(x, y, 40, 60);
+            
+            ctx.fillStyle = "black";
+            ctx.font = "14px Arial";
+            if (text) {
+                ctx.fillText(text, x + 10, y + 30);
+            }
+        }
+        
+        // Handle click events for player 1 only
+        canvas.addEventListener("click", (event) => {
+            const rect = canvas.getBoundingClientRect();
+            const mouseX = event.clientX - rect.left;
+            const mouseY = event.clientY - rect.top;
+            
+            let player = players.player1;
+            for (let i = 0; i < player.cards.length; i++) {
+                let cardX = player.position[0] - (player.cards.length * 40) / 2 + i * 40;
+                let cardY = player.position[1];
+                if (mouseX >= cardX && mouseX <= cardX + 40 && mouseY >= cardY && mouseY <= cardY + 60) {
+                    playedCards.push(player.cards[i]);
+                    player.cards.splice(i, 1);
+                    drawLayout();
+                    return;
+                }
+            }
+        });
+        
+        drawLayout();
+    </script>
+</body>
+</html>

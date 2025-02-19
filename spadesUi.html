@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spades Game UI</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #2E8B57;
+            color: white;
+        }
+        canvas {
+            background-color: #006400;
+            border: 2px solid white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Spades - Two Player Layout</h1>
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById("gameCanvas");
+        const ctx = canvas.getContext("2d");
+        
+        const player1Cards = ["♠A", "♠K", "♠Q", "♠J", "♠10"];
+        const player2Cards = ["♥A", "♥K", "♥Q", "♥J", "♥10"];
+        
+        let playedCards = [];
+        
+        function drawLayout() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            // Draw player areas
+            ctx.fillStyle = "white";
+            ctx.font = "20px Arial";
+            ctx.fillText("Player 1 (You)", 350, 550);
+            ctx.fillText("Player 2 (Opponent)", 350, 50);
+            
+            // Draw cards for Player 1 (bottom)
+            for (let i = 0; i < player1Cards.length; i++) {
+                drawCard(200 + i * 100, 480, player1Cards[i]);
+            }
+            
+            // Draw cards for Player 2 (top, face down)
+            for (let i = 0; i < player2Cards.length; i++) {
+                drawCard(200 + i * 100, 80, "");
+            }
+            
+            // Draw play area
+            ctx.strokeRect(350, 250, 100, 150);
+            ctx.fillText("Play Area", 365, 240);
+            
+            // Draw played cards
+            playedCards.forEach((card, index) => {
+                drawCard(360, 270 + index * 30, card);
+            });
+        }
+        
+        function drawCard(x, y, text) {
+            ctx.fillStyle = "white";
+            ctx.fillRect(x, y, 80, 100);
+            ctx.strokeStyle = "black";
+            ctx.strokeRect(x, y, 80, 100);
+            
+            ctx.fillStyle = "black";
+            ctx.font = "18px Arial";
+            if (text) {
+                ctx.fillText(text, x + 20, y + 50);
+            }
+        }
+        
+        // Handle click events
+        canvas.addEventListener("click", (event) => {
+            const rect = canvas.getBoundingClientRect();
+            const mouseX = event.clientX - rect.left;
+            const mouseY = event.clientY - rect.top;
+            
+            // Check if a card from player 1's hand is clicked
+            for (let i = 0; i < player1Cards.length; i++) {
+                let cardX = 200 + i * 100;
+                let cardY = 480;
+                if (mouseX >= cardX && mouseX <= cardX + 80 && mouseY >= cardY && mouseY <= cardY + 100) {
+                    playedCards.push(player1Cards[i]);
+                    player1Cards.splice(i, 1);
+                    drawLayout();
+                    return;
+                }
+            }
+        });
+        
+        drawLayout();
+    </script>
+</body>
+</html>
